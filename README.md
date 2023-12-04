@@ -12,6 +12,6 @@ Instruction to Run:
       Size of the array\
       Combinations in Array\
       Budget
-    - Included in the exhaustive search and dynamic programming codes are functions that parse the values from the text file into these respective files and test them
+    - Included in the exhaustive search and dynamic programming codes are functions that parse the values from the text file into these respective files and test them (Utilize 're' library)
 
 
