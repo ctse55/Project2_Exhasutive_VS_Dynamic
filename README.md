@@ -8,5 +8,6 @@ Instruction to Run:
 2. Ensure that the "Input_testCases.txt" file is in the same directory as the programs running an exhaustive search and dynamic programming
 3. When ready, type in "python3 _Name_of_program_file_" to run the code
     - If you want to run more test cases, add it to the "Input_testCases.txt" file
+    - Included in the exhaustive search and dynamic programming codes are functions that parse the values from the text file into these respective files and test them
 
 
