@@ -1,0 +1,10 @@
+Test Case 1: Result = 11
+Test Case 2: Result = 12
+Test Case 3: Result = 16
+Test Case 4: Result = 16
+Test Case 5: Result = 3
+Test Case 6: Result = 10
+Test Case 7: Result = 4
+Test Case 8: Result = 10
+Test Case 9: Result = 9
+Test Case 10: Result = 12
